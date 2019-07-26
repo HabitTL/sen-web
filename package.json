@@ -1,0 +1,25 @@
+{
+  "name": "sen-web",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento academico.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HabitTL/sen-web.git"
+  },
+  "keywords": [
+    "gerenciamento",
+    "academico",
+    "alunos",
+    "escola"
+  ],
+  "author": "Kadu Loran Machado Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HabitTL/sen-web/issues"
+  },
+  "homepage": "https://github.com/HabitTL/sen-web#readme"
+}
